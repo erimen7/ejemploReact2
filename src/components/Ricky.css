@@ -1,0 +1,4 @@
+.fondo{
+    width: 300px;
+}
+.fondo:hover{ background-color: blueviolet;}

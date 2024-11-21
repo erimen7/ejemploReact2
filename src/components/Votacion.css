@@ -1,0 +1,25 @@
+.red{
+    background-color: brown;
+    padding: 15px;
+    border: 1px solid rgb(18, 94, 145);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.red-titulo{
+    font-size: Georgia 20px;
+    color:aliceblue;
+}
+
+.red-des{
+    font-size: Georgia 14px;
+    color:bisque;
+}
+.red-boton{
+    flex-direction: row;
+}
+.imagen6{
+    width: 180px; height: 280px;
+    align-items: center;
+}
